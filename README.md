@@ -12,10 +12,14 @@ https://nodejs.org/es/download
 
 
 Teniendo instalado satisfactoriamente NodeJS podremos proceder con la instalación de TypeScript en sí. Primero, emplearemos el siguiente comando en la terminal para instalar TypeScript en nuestro Folder:
+``` bash
 npm install --save-dev ts-node typescript
+```
 
 Con ésto ya tendríamos TypeScript instalado, por lo que para verificar su respectiva versión podemos emplear el siguiente comando: 
+```bash
 tsc -v
+```
 
 El mismo proceso aplica para la instalación de TsNode:
 ts-node -v
