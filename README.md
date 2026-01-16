@@ -7,6 +7,8 @@ Práctica de mi proyecto personal de TypeScript, donde empezaré a hacer revisi�
 - Docker Compose
 
 # Instalación de las dependencias:
+
+## TypeScript
 Primero veremos el paso a paso para poder instalar TypeScript. Primero, como dependencia principal tendremos que tener instalado NodeJS. Para instalar dicha dependencia podemos acceder a la siguiente página y completar el proceso de instalación:
 https://nodejs.org/es/download 
 
@@ -22,6 +24,25 @@ tsc -v
 ```
 
 El mismo proceso aplica para la instalación de TsNode:
+```
 ts-node -v
+```
+
+## NodeJS
+a
+
+
+## NestJS
+a
+
+
+## OMR Prisma:
+a
+
+
+## Docker Compose:
+a
+
+
 
 
